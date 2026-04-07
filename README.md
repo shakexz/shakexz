@@ -19,6 +19,9 @@ Me chamo Victor Mascareli de Souza, tenho 18 anos e sou natural de São Paulo. C
             src="https://custom-icon-badges.demolab.com/github/followers/shakexz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://instagram.com/victor_mascareli">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
