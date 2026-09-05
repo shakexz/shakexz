@@ -66,7 +66,7 @@ Me chamo Victor Mascareli de Souza, tenho 18 anos e sou natural de São Paulo. C
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <br/>
